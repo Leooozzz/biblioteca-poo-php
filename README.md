@@ -139,5 +139,3 @@ Projeto criado para estudo e evolução em **Back-end PHP / Laravel**.
 
 ---
 
-Se você chegou até aqui, parabéns 👏
-Esse projeto demonstra **boa base de POO e arquitetura**.
