@@ -6,8 +6,8 @@ class Livro
 {
     private bool $disponivel = false;
 
-    public function __construct(private string $titulo, private string $autor){}
-    
+    public function __construct(private string $titulo, private string $autor) {}
+
     public function marcarComoEmprestado()
     {
         $this->disponivel = false;
